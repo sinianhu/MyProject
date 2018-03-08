@@ -1,0 +1,5 @@
+/snh/target/
+/snh/.classpath        
+/snh/.project
+/snh/.settings/
+*.class
