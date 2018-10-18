@@ -24,7 +24,7 @@
     </build>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring.version>4.0.2.RELEASE</spring.version>
+        <spring.version>5.0.8.RELEASE</spring.version>
         <junit.version>4.12</junit.version>
         <druid.version>1.0.18</druid.version>
         <fastjson.version>1.2.8</fastjson.version>
